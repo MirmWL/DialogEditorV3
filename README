@@ -10,4 +10,4 @@ mv DialogEditor ./lib;
 
 Attention:
 Before loading the dialog tree you must move the edit panel with drag and drop
-![Screenshot1](https://github.com/MirmWL/DialogEditorV3/edit/master/dev3.png?raw=true)
+![Screenshot1](dev3.png)
