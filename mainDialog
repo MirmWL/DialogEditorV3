@@ -1,0 +1,205 @@
+<dialog>
+  <connects>
+     <origin>0</origin>
+     <destination>1</destination>
+     <destination>2</destination>
+     <destination>22</destination>
+  </connects>
+  <connects>
+     <origin>1</origin>
+     <destination>3</destination>
+  </connects>
+  <connects>
+     <origin>2</origin>
+     <destination>6</destination>
+  </connects>
+  <connects>
+     <origin>3</origin>
+     <destination>7</destination>
+     <destination>8</destination>
+  </connects>
+  <connects>
+     <origin>6</origin>
+     <destination>11</destination>
+     <destination>12</destination>
+  </connects>
+  <connects>
+     <origin>7</origin>
+     <destination>13</destination>
+  </connects>
+  <connects>
+     <origin>8</origin>
+     <destination>14</destination>
+  </connects>
+  <connects>
+     <origin>11</origin>
+     <destination>15</destination>
+  </connects>
+  <connects>
+     <origin>14</origin>
+     <destination>17</destination>
+     <destination>18</destination>
+  </connects>
+  <connects>
+     <origin>15</origin>
+     <destination>16</destination>
+  </connects>
+  <connects>
+     <origin>17</origin>
+     <destination>19</destination>
+  </connects>
+  <connects>
+     <origin>18</origin>
+     <destination>20</destination>
+  </connects>
+  <connects>
+     <origin>20</origin>
+     <destination>21</destination>
+  </connects>
+  <connects>
+     <origin>22</origin>
+     <destination>23</destination>
+  </connects>
+  <nodes>
+    <node>
+       <id>0</id>
+       <positionX>780</positionX>
+       <positionY>36</positionY>
+       <name>Король</name>
+       <speech>Приветствую вас, рыцарь! Каковы ваши намерения?</speech>
+    </node>
+    <node>
+       <id>1</id>
+       <positionX>547</positionX>
+       <positionY>260</positionY>
+       <name>Рыцарь</name>
+       <speech>Я здесь, чтобы служить вам, мой король.</speech>
+    </node>
+    <node>
+       <id>2</id>
+       <positionX>1008</positionX>
+       <positionY>254</positionY>
+       <name>Рыцарь</name>
+       <speech>Я пришёл за славой и богатством.</speech>
+    </node>
+    <node>
+       <id>3</id>
+       <positionX>326</positionX>
+       <positionY>549</positionY>
+       <name>Король</name>
+       <speech>Отлично, тогда отправляйся в Тёмный лес</speech>
+    </node>
+    <node>
+       <id>6</id>
+       <positionX>1165</positionX>
+       <positionY>512</positionY>
+       <name>Король</name>
+       <speech>Тогда ты станешь известным воином!</speech>
+    </node>
+    <node>
+       <id>7</id>
+       <positionX>217</positionX>
+       <positionY>824</positionY>
+       <name>Рыцарь</name>
+       <speech>Как скажите, сэр!</speech>
+    </node>
+    <node>
+       <id>8</id>
+       <positionX>417</positionX>
+       <positionY>825</positionY>
+       <name>Рыцарь</name>
+       <speech>Не хочу, бе</speech>
+    </node>
+    <node>
+       <id>16</id>
+       <positionX>1024</positionX>
+       <positionY>1245</positionY>
+       <name>Рыцарь</name>
+       <speech>Спасибочки! Чмок в пупок</speech>
+    </node>
+    <node>
+       <id>11</id>
+       <positionX>1033</positionX>
+       <positionY>762</positionY>
+       <name>Рыцарь</name>
+       <speech>Ну, это типа круто, наверное...</speech>
+    </node>
+    <node>
+       <id>12</id>
+       <positionX>1268</positionX>
+       <positionY>757</positionY>
+       <name>Рыцарь</name>
+       <speech>Я отправляюсь на турник завоевывать свою славу!</speech>
+    </node>
+    <node>
+       <id>13</id>
+       <positionX>216</positionX>
+       <positionY>1084</positionY>
+       <name>Король</name>
+       <speech>Да прибудет с тобой сила!</speech>
+    </node>
+    <node>
+       <id>14</id>
+       <positionX>412</positionX>
+       <positionY>1090</positionY>
+       <name>Король</name>
+       <speech>Голову с плеч, кринж</speech>
+    </node>
+    <node>
+       <id>15</id>
+       <positionX>1028</positionX>
+       <positionY>1001</positionY>
+       <name>Казначей</name>
+       <speech>Вот твоё золото</speech>
+    </node>
+    <node>
+       <id>17</id>
+       <positionX>320</positionX>
+       <positionY>1382</positionY>
+       <name>Рыцарь</name>
+       <speech>Нееееееет, пожалуйстаааа.... </speech>
+    </node>
+    <node>
+       <id>18</id>
+       <positionX>529</positionX>
+       <positionY>1376</positionY>
+       <name>Рыцарь</name>
+       <speech>ладно.</speech>
+    </node>
+    <node>
+       <id>19</id>
+       <positionX>321</positionX>
+       <positionY>1647</positionY>
+       <name>Король</name>
+       <speech>Ладно, так уж и быть. Я сегодя добри</speech>
+    </node>
+    <node>
+       <id>20</id>
+       <positionX>536</positionX>
+       <positionY>1656</positionY>
+       <name>Король</name>
+       <speech>ага.</speech>
+    </node>
+    <node>
+       <id>21</id>
+       <positionX>538</positionX>
+       <positionY>1957</positionY>
+       <name>Рыцарь</name>
+       <speech>X-X</speech>
+    </node>
+    <node>
+       <id>22</id>
+       <positionX>779</positionX>
+       <positionY>374</positionY>
+       <name>Рыцарь</name>
+       <speech>Imma explode!!!!</speech>
+    </node>
+    <node>
+       <id>23</id>
+       <positionX>780</positionX>
+       <positionY>633</positionY>
+       <name>The bomb</name>
+       <speech>BOOOOOOOM</speech>
+    </node>
+  </nodes>
+</dialog>
